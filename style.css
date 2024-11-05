@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:rgba(0, 0, 0, 0.671);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+}
+
+
+h1 {
+    font-size: 3.3em;
+    margin-bottom: 30px;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(235, 230, 230, 0.829);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+
+}
+
+.CountDown span {
+    display: inline-block;
+    border: 8px solid white;
+    padding: 12px 15px;
+    margin: 6px 5px;
+    font-size: 3em;
+    background-color: rgba(255, 255, 255, 0.123);
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px rgba(163, 162, 162, 0.363);
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.CountDown {
+    text-align: center;
+    margin: 2.4em;
+
+}
